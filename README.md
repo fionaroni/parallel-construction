@@ -1,1 +1,2 @@
 # parallel-construction
+In July 2016, I wrote and filed a Freedom of Information Act (FOIA) request pertaining to “parallel construction,” a practice employed by law enforcement to conceal the actual—and often illegal—method used to obtain evidence about a suspect, by artificially creating a “parallel” investigative pathway to arrive at the same evidence. I also wrote a corresponding blog post, attached.
